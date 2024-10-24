@@ -1,0 +1,10 @@
+[package]
+name = "pest_01_invop"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "test la la la pest pract"
+[dependencies]
+anyhow = "1.0.91"
+pest = "2.7.14"
+pest_derive = "2.7.14"
